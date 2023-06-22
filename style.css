@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: rgb(17, 17, 17);
+}
+
+/* UTILS */
+.flex {
+  display: flex;
+}
+/* HEADER */
+.top-buttons {
+  color: white;
+  justify-content: end;
+  margin-top: 5px;
+}
+.header-button {
+  padding: 3px;
+  background-color: grey;
+  border-radius: 5px;
+  margin: 0 5px;
+}
